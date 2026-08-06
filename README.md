@@ -8,7 +8,7 @@
 
 ### 1. Antarmuka Publik & Pengalaman Pengguna (Frontend)
 
-- **Desain Layout Modern KebumenUpdate Style**:
+- **Desain Layout Modern Style**:
   - Layout berita terstruktur dengan grid berita terkini, headline utama, serta widget sidebar populer.
   - Sudut elemen visual dan kartu berita berdesain siku 90 derajat yang tegas dan profesional.
 
